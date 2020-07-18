@@ -5,7 +5,6 @@
 environment.yml
 
 ## How to use
-unzip password included in the submitted paper 
 
 evaluate_nc.sh   node classification experiments on Brazilian, American and European air-traffic network
 
