@@ -1,4 +1,4 @@
-# anonymous_paper_hyperstruct
+# Embedding Node Structural Role Identity into Hyperbolic Space
 
 
 ## Requirements:
@@ -23,3 +23,16 @@ struc2vec: Learning Node Representations from Structural Identity. Leonardo F. R
 Knowledge Discovery and Data Mining, SigKDD, 2017.
 
 https://github.com/shenweichen/GraphEmbedding
+
+
+## Citation
+
+If you find this useful, please use the following citation
+```
+@inproceedings{Hyperstruct2020,
+  title={Embedding Node Structural Role Identity into Hyperbolic Space},
+  author={Lili Wang, Ying Lu, Chenghan Huang, Soroush Vosoughi},
+  booktitle={Proceedings of the 29th ACM International Conference on Information and Knowledge Management},
+  year={2020},
+  organization={ACM}
+}
