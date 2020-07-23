@@ -33,5 +33,5 @@ If you find this useful, please use the following citation
   author={Wang, Lili and Lu, Ying and Huang, Chenghan and Vosoughi, Soroush},
   booktitle={Proceedings of the 29th ACM International Conference on Information and Knowledge Management},
   year={2020},
-  organization={ACM}
+
 }
