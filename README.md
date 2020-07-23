@@ -30,7 +30,7 @@ If you find this useful, please use the following citation
 ```
 @inproceedings{Hyperstruct2020,
   title={Embedding Node Structural Role Identity into Hyperbolic Space},
-  author={Lili Wang, Ying Lu, Chenghan Huang, Soroush Vosoughi},
+  author={Wang, Lili and Liu, Ruibo and Vosoughi, Soroush},
   booktitle={Proceedings of the 29th ACM International Conference on Information and Knowledge Management},
   year={2020},
   organization={ACM}
