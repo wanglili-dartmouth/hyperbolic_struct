@@ -28,9 +28,12 @@ https://github.com/shenweichen/GraphEmbedding
 
 If you find this useful, please use the following citation
 ```
-@inproceedings{Hyperstruct2020,
+@inproceedings{wang2020embedding,
   title={Embedding Node Structural Role Identity into Hyperbolic Space},
   author={Wang, Lili and Lu, Ying and Huang, Chenghan and Vosoughi, Soroush},
-  booktitle={Proceedings of the 29th ACM International Conference on Information and Knowledge Management},
+  booktitle={Proceedings of the 29th ACM International Conference on Information \& Knowledge Management},
+  pages={2253--2256},
   year={2020}
+}
+
 }
