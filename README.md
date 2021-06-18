@@ -36,4 +36,3 @@ If you find this useful, please use the following citation
   year={2020}
 }
 
-}
